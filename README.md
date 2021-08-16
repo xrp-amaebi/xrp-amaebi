@@ -12,4 +12,5 @@
 
 # My Videos
 <!-- YT_VIDEO_LIST:START -->
+- [TEKKEN PIRATE](https://www.youtube.com/watch?v=Y1wO2QC3-30)
 <!-- YT_VIDEO_LIST:END -->
