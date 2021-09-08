@@ -6,7 +6,7 @@
 <img alt="NodeJs" align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img alt="NodeJs" align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 
-# My Posts
+<!-- # My Posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- - [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
 - [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
@@ -15,7 +15,7 @@
 - [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar) -->
 <!-- BLOG-POST-LIST:END -->
 
-# My Videos
+<!-- # My Videos -->
 <!-- YT_VIDEO_LIST:START -->
 <!-- - [TEKKEN PIRATE](https://www.youtube.com/watch?v=Y1wO2QC3-30) -->
 <!-- YT_VIDEO_LIST:END -->
