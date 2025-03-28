@@ -11,9 +11,13 @@
 <img alt="MongoDB" align="left"  src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img alt="TypeORM" align="left" src="https://img.shields.io/badge/typeorm-FF6C37.svg?style=for-the-badge&logo=typeorm&logoColor=white" />
 <img alt="Docker" align="left" src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-<img alt="Dotnet" align="left" src="https://img.shields.io/badge/dotnet-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
-<!-- <img alt="" https://img.shields.io/badge/{technology}-{color}.svg?style=for-the-badge&logo={technology}&logoColor=white /> -->
+<!--
 <img alt="Go" align="left" src="https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+<img alt="Dotnet" align="left" src="https://img.shields.io/badge/dotnet-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
+-->
+<!-- Simple icon source from https://simpleicons.io -->
+<!-- <img alt="" https://img.shields.io/badge/{technology}-{color}.svg?style=for-the-badge&logo={technology}&logoColor=white /> -->
+
 
 
 
