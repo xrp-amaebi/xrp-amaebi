@@ -7,6 +7,7 @@
 <img alt="NodeJs" align="left" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" />
 <img alt="NestJS" align="left" src="https://img.shields.io/badge/nestjs-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img alt="PostgreSQL" align="left" src="https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img alt="MongoDB" align="left"  src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img alt="TypeORM" align="left" src="https://img.shields.io/badge/typeorm-FF6C37.svg?style=for-the-badge&logo=typeorm&logoColor=white" />
 <img alt="Docker" align="left" src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
 
