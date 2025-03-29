@@ -1,4 +1,5 @@
 # Amaebi Amara - Javascript Developer
+Glad you could check out my profile.
 <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=xrp-amaebi&show_icons=true&theme=radical" /> -->
 
 <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrp-amaebi&layout=compact" /> -->
