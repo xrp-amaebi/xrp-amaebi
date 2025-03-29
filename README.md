@@ -1,4 +1,6 @@
-# Amaebi Amara - Javascript Developer
+# Amaebi Amara 
+-
+## Javascript Developer
 <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=xrp-amaebi&show_icons=true&theme=radical" /> -->
 
 <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrp-amaebi&layout=compact" /> -->
